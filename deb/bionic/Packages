@@ -1,0 +1,18 @@
+Package: sonobus
+Version: 1.4.1
+Architecture: amd64
+Maintainer: Matt Evans
+Installed-Size: 26440
+Depends: jackd2, libopus0, libasound2, libx11-6, libxext6, libxinerama1, libxrandr2, libxcursor1, libfreetype6, libcurl4
+Filename: ./sonobus_1.4.1_ubuntu18.04_amd64.deb
+Size: 10090154
+MD5sum: 50d3fff4d99522da7699f2d2517ed198
+SHA1: dcf4e30ae6d18cda7a2a4fa1088e839022ac2bc1
+SHA256: 74c37681d5c3ef6ff63269708691d0424c2e7e25519c8975cbfd5792afac05a1
+Section: music
+Priority: extra
+Homepage: https://www.sonobus.net
+Description: SonoBus is an easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network.\n\nSimply choose a unique group name (with optional password), and instantly connect multiple people together to make music, remote sessions, podcasts, etc. Easily record the audio from everyone, as well as playback any audio content to the whole group. Connects multiple users together to send and receive audio among all in a group, with fine-grained control over latency, quality and overall mix. Includes optional input compression, noise gate, and EQ effects, along with a master reverb. All settings are dynamic, network statistics are clearly visible.
+License: GPL-3.0
+Vendor: none
+
