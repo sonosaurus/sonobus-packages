@@ -1,0 +1,9 @@
+Archive: focal
+Component: main
+Origin: sonosaurus.github.io
+Label: sonosaurus.github.io
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Architecture: i386
+Date: Wed, 24 Mar 2021 23:20:54 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
