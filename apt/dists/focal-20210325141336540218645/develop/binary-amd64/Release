@@ -1,9 +1,0 @@
-Archive: focal
-Component: develop
-Origin: sonosaurus.github.io
-Label: sonosaurus.github.io
-NotAutomatic: no
-ButAutomaticUpgrades: no
-Architecture: amd64
-Date: Thu, 25 Mar 2021 18:13:36 UTC
-Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
