@@ -1,9 +1,0 @@
-Archive: bionic
-Component: develop
-Origin: sonosaurus.github.io
-Label: sonosaurus.github.io
-NotAutomatic: no
-ButAutomaticUpgrades: no
-Architecture: i386
-Date: Thu, 25 Mar 2021 18:24:22 UTC
-Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
