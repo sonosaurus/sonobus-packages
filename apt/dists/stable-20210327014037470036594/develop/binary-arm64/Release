@@ -1,0 +1,9 @@
+Archive: stable
+Component: develop
+Origin: sonosaurus.github.io
+Label: sonosaurus.github.io
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Architecture: arm64
+Date: Sat, 27 Mar 2021 05:40:37 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
