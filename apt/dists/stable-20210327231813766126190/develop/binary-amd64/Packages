@@ -1,0 +1,19 @@
+Package: sonobus
+Version: 1.4.2
+License: GPL-3.0
+Vendor: none
+Architecture: amd64
+Maintainer: Matt Evans
+Installed-Size: 28058
+Depends: jackd2, libopus0, libasound2, libx11-6, libxext6, libxinerama1, libxrandr2, libxcursor1, libfreetype6, libcurl4
+Section: music
+Priority: extra
+Homepage: https://www.sonobus.net
+Description: SonoBus is an easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network.\n\nSimply choose a unique group name (with optional password), and instantly connect multiple people together to make music, remote sessions, podcasts, etc. Easily record the audio from everyone, as well as playback any audio content to the whole group. Connects multiple users together to send and receive audio among all in a group, with fine-grained control over latency, quality and overall mix. Includes optional input compression, noise gate, and EQ effects, along with a master reverb. All settings are dynamic, network statistics are clearly visible.
+Filename: pool/stable/develop/s/sonobus/sonobus_1.4.2_amd64.deb
+MD5sum: b52695e967fa36bcc2daa3bb72013e91
+SHA1: cd15b48870beef7c7c8795cba8a8a65c2f5c68e4
+SHA256: f54e52055e6aab39b98e14d0dc22d219bbb6688390959572fa597b963b48b9d0
+SHA512: 66df007fde21b1044dc09cd5918c32bc97a3dd7fb2e034c32a07947cef33f75127e50bc8f78f7b164f453aa3b1165efdb1468c0a4b2cc73596a48293cd7b462c
+Size: 10439492
+
