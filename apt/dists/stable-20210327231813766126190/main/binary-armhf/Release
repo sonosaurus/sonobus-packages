@@ -1,9 +1,0 @@
-Archive: stable
-Component: main
-Origin: sonosaurus.github.io
-Label: sonosaurus.github.io
-NotAutomatic: no
-ButAutomaticUpgrades: no
-Architecture: armhf
-Date: Sun, 28 Mar 2021 03:18:13 UTC
-Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
