@@ -1,0 +1,57 @@
+Package: sonobus
+Version: 1.4.2-1
+License: GPL-3.0
+Vendor: none
+Architecture: armhf
+Maintainer: Matt Evans
+Installed-Size: 19009
+Depends: libjack-jackd2-0|libjack0, libopus0, libasound2, libx11-6, libxext6, libxinerama1, libxrandr2, libxcursor1, libfreetype6, libcurl4
+Section: music
+Priority: extra
+Homepage: https://www.sonobus.net
+Description: SonoBus is an easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network.\n\nSimply choose a unique group name (with optional password), and instantly connect multiple people together to make music, remote sessions, podcasts, etc. Easily record the audio from everyone, as well as playback any audio content to the whole group. Connects multiple users together to send and receive audio among all in a group, with fine-grained control over latency, quality and overall mix. Includes optional input compression, noise gate, and EQ effects, along with a master reverb. All settings are dynamic, network statistics are clearly visible.
+Filename: pool/stable/main/s/sonobus/sonobus_1.4.2-1_armhf.deb
+MD5sum: 0910f839a9c3c2b177581db9f74eba3b
+SHA1: 6a372660b9b9ca494fa82fe5700b1dc4c4b9f527
+SHA256: 727fccd6504309594708cf6994e375e58ffc83e5aeb51e096eab958b71423c04
+SHA512: 4610759a6c52b4f8f52784f687a9961113a133a7797e8ea369bc96bbc078a556b7300cd20c6895ef3960f7ffd91e279c80bd4cd3f383d800b66ac78232efbf61
+Size: 8371252
+
+Package: sonobus
+Version: 1.4.3-0
+License: GPL-3.0
+Vendor: none
+Architecture: armhf
+Maintainer: Matt Evans
+Installed-Size: 19010
+Depends: libjack-jackd2-0|libjack0, libopus0, libasound2, libx11-6, libxext6, libxinerama1, libxrandr2, libxcursor1, libfreetype6, libcurl4
+Section: music
+Priority: extra
+Homepage: https://www.sonobus.net
+Description: SonoBus is an easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network.\n\nSimply choose a unique group name (with optional password), and instantly connect multiple people together to make music, remote sessions, podcasts, etc. Easily record the audio from everyone, as well as playback any audio content to the whole group. Connects multiple users together to send and receive audio among all in a group, with fine-grained control over latency, quality and overall mix. Includes optional input compression, noise gate, and EQ effects, along with a master reverb. All settings are dynamic, network statistics are clearly visible.
+Filename: pool/stable/main/s/sonobus/sonobus_1.4.3-0_armhf.deb
+MD5sum: 602989e52654cc809b3838c7489d03c0
+SHA1: 5539293db658d44107cc20b7e355893786b28d4a
+SHA256: a4c908af6cc792c33fd4f19c73bde7ad78b7ec773b3d3a155b894e81a063a417
+SHA512: bd6d497bd0362cef80c8b7f19bcd1b51ac470f5fb9905853bdb6c3cfffd7cf57b737e9f3e39cb511e5a80be473496d3a2f803b29b84faf571020f5fe88558a0d
+Size: 8371706
+
+Package: sonobus
+Version: 1.4.4-0
+License: GPL-3.0
+Vendor: none
+Architecture: armhf
+Maintainer: Matt Evans
+Installed-Size: 17034
+Depends: libjack-jackd2-0|libjack0, libopus0, libasound2, libx11-6, libxext6, libxinerama1, libxrandr2, libxcursor1, libfreetype6, libcurl4
+Section: music
+Priority: extra
+Homepage: https://www.sonobus.net
+Description: SonoBus is an easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network.\n\nSimply choose a unique group name (with optional password), and instantly connect multiple people together to make music, remote sessions, podcasts, etc. Easily record the audio from everyone, as well as playback any audio content to the whole group. Connects multiple users together to send and receive audio among all in a group, with fine-grained control over latency, quality and overall mix. Includes optional input compression, noise gate, and EQ effects, along with a master reverb. All settings are dynamic, network statistics are clearly visible.
+Filename: pool/stable/main/s/sonobus/sonobus_1.4.4-0_armhf.deb
+MD5sum: c8588ae0740c34c5754363840548f2fe
+SHA1: c8ea7d872f4d2f775e89162bc76118a77f51e3cf
+SHA256: 92358f405852a52fe9a8b2eb8be4faee40c41b680593f12fc6f8d28d963d487a
+SHA512: 2a6c686e0bda69975215ca1e414b2a759b064c06b71365f922322d6841f67794d90a8186c94f8e16e6afa033903ff8b0e83e1c8b0a588c74a691b8225bf54122
+Size: 8084070
+
