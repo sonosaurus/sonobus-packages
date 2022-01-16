@@ -1,0 +1,38 @@
+Package: sonobus
+Version: 1.4.8-1
+License: GPL-3.0
+Vendor: none
+Architecture: armhf
+Maintainer: Matt Evans
+Installed-Size: 17916
+Depends: libjack-jackd2-0|libjack0, libopus0, libasound2, libx11-6, libxext6, libxinerama1, libxrandr2, libxcursor1, libfreetype6, libcurl4
+Section: music
+Priority: extra
+Homepage: https://www.sonobus.net
+Description: SonoBus is an easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network.\n\nSimply choose a unique group name (with optional password), and instantly connect multiple people together to make music, remote sessions, podcasts, etc. Easily record the audio from everyone, as well as playback any audio content to the whole group. Connects multiple users together to send and receive audio among all in a group, with fine-grained control over latency, quality and overall mix. Includes optional input compression, noise gate, and EQ effects, along with a master reverb. All settings are dynamic, network statistics are clearly visible.
+Filename: pool/stable/main/s/sonobus/sonobus_1.4.8-1_armhf.deb
+MD5sum: c8188c5df2e80a7f094486b37c6df672
+SHA1: 8a495fa04ce9bf17a22d74c8960401c1415374c4
+SHA256: 1f016d724d75c5a4bf03488d0d79cc9d383d5a91391a120a20a80d5383c71c95
+SHA512: 87076ddfa5d7ac01bc7e2a1c471a2bd8489d1a06f6191610a0a37a3bf4bd36bda775129898204eedae1e231e45e1e94ffebfcd2d3b45844a05831fb3887b3616
+Size: 8432378
+
+Package: sonobus
+Version: 1.4.9-0
+License: GPL-3.0
+Vendor: none
+Architecture: armhf
+Maintainer: Matt Evans
+Installed-Size: 17924
+Depends: libjack-jackd2-0|libjack0, libopus0, libasound2, libx11-6, libxext6, libxinerama1, libxrandr2, libxcursor1, libfreetype6, libcurl4
+Section: music
+Priority: extra
+Homepage: https://www.sonobus.net
+Description: SonoBus is an easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network.\n\nSimply choose a unique group name (with optional password), and instantly connect multiple people together to make music, remote sessions, podcasts, etc. Easily record the audio from everyone, as well as playback any audio content to the whole group. Connects multiple users together to send and receive audio among all in a group, with fine-grained control over latency, quality and overall mix. Includes optional input compression, noise gate, and EQ effects, along with a master reverb. All settings are dynamic, network statistics are clearly visible.
+Filename: pool/stable/main/s/sonobus/sonobus_1.4.9-0_armhf.deb
+MD5sum: c94c933e47acf1113baa5cde06f8417e
+SHA1: dd95ba18718c2ce9acec00a397b72401478a5216
+SHA256: 43dc86b657b1b45752b26747bd59b0b77a7f776419f63e6b7ba205593ddd1485
+SHA512: 16785e950c70bbc0ec21049eb3823f549c81c7690b6ac6d507534683ee153adce32ffc98f23518f33b0e4b18242f7f6533e965cca383c02efa920a8f1c4b78d9
+Size: 8433084
+
