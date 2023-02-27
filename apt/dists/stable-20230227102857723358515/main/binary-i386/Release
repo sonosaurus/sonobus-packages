@@ -1,0 +1,9 @@
+Archive: stable
+Component: main
+Origin: pkg.sonobus.net
+Label: pkg.sonobus.net
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Architecture: i386
+Date: Mon, 27 Feb 2023 15:28:57 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
