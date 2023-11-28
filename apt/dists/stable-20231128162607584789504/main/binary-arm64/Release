@@ -1,0 +1,9 @@
+Archive: stable
+Component: main
+Origin: pkg.sonobus.net
+Label: pkg.sonobus.net
+NotAutomatic: no
+ButAutomaticUpgrades: no
+Architecture: arm64
+Date: Tue, 28 Nov 2023 21:26:07 UTC
+Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
