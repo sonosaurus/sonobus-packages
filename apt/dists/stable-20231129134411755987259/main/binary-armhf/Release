@@ -1,9 +1,0 @@
-Archive: stable
-Component: main
-Origin: pkg.sonobus.net
-Label: pkg.sonobus.net
-NotAutomatic: no
-ButAutomaticUpgrades: no
-Architecture: armhf
-Date: Wed, 29 Nov 2023 18:44:11 UTC
-Valid-Until: Tue, 30 Nov 2038 00:00:00 UTC
